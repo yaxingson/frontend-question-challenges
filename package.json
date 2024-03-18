@@ -5,15 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vitepress dev ."
   },
   "keywords": [],
   "author": "sgk",
   "license": "ISC",
-  "dependencies": {
-    "vitepress": "1.0.0-rc.44"
-  },
   "devDependencies": {
-    "typescript": "^5.3.3"
+    "@types/node": "^20.11.26",
+    "sass": "^1.71.1",
+    "typescript": "^5.3.3",
+    "vitepress": "1.0.0-rc.45"
   }
 }

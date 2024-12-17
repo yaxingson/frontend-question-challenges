@@ -9,7 +9,12 @@
 
 ## Challenges
 
+> Click the following badges to see details of the challenges.
+
 <img src="https://img.shields.io/badge/HTML-1-e54d26" />
+<p>
+  
+</p>
 
 <img src="https://img.shields.io/badge/CSS-1-4a90e2" />
 

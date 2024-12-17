@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 20.x
+      - name: npm install
+        run: npm install
+      - name: npm build
+        run: npm run build
+  deploy:
+    steps:

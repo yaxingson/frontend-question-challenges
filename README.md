@@ -1,48 +1,46 @@
-# Astro Starter Kit: Basics
+<div align="center">
+  <p>Collection of Frontend question challenges</p>
+  <p>English &nbsp; | &nbsp; <a href="">简体中文</a></p>
+</div>
 
-```sh
-npm create astro@latest -- --template basics
-```
+## Introduction
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+> This project is highly inspired by [type-challenges](https://github.com/type-challenges/type-challenges).
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Challenges
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+<img src="https://img.shields.io/badge/HTML-1-e54d26" />
 
-## 🚀 Project Structure
+<img src="https://img.shields.io/badge/CSS-1-4a90e2" />
 
-Inside of your Astro project, you'll see the following folders and files:
+<img src="https://img.shields.io/badge/JavaScript-1-f7df1e" />
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+<img src="https://img.shields.io/badge/Vue-1-42b883" />
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+<img src="https://img.shields.io/badge/React-1-087ea4" />
 
-## 🧞 Commands
+<img src="https://img.shields.io/badge/Node-1-417e38" />
 
-All commands are run from the root of the project, from a terminal:
+<img src="https://img.shields.io/badge/Engineering-1-deeppink" />
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+<img src="https://img.shields.io/badge/Browser-1-yellow" />
 
-## 👀 Want to learn more?
+<img src="https://img.shields.io/badge/Network-1-teal" />
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<img src="https://img.shields.io/badge/Datastruct%20&%20algorithm-1-719f0e" />
+
+<img src="https://img.shields.io/badge/Compatibility-1-blue" />
+
+<img src="https://img.shields.io/badge/Miscellaneous-1-orange" />
+
+## Contribute
+
+
+## Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=yaxingson/frontend-question-challenges&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=yaxingson/frontend-question-challenges&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=yaxingson/frontend-question-challenges&type=Date" />
+</picture>
+

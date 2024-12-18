@@ -1,4 +1,4 @@
-# Briefly describe the understanding of HTML semantics.
+## Briefly describe the understanding of HTML semantics.
 
 > by Yaxing Son [@yaxingson]()
 

@@ -13,16 +13,16 @@
 
 <img src="https://img.shields.io/badge/HTML-1-e54d26" />
 <p>
-  <a href="./questions/html/semantic-tag/README.md"><img src="https://img.shields.io/badge/-1%E3%83%BBsemantic%20tag-e54d26" /></a>
-  <a href="./questions/html/seo/README.md"><img src="https://img.shields.io/badge/-3%E3%83%BBseo-e54d26" /></a>
+  <a href="./questions/html/semantic-tag"><img src="https://img.shields.io/badge/-1%E3%83%BBsemantic%20tag-e54d26" /></a>
+  <a href="./questions/html/seo"><img src="https://img.shields.io/badge/-3%E3%83%BBseo-e54d26" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBiframe-e54d26" /></a>
 </p>
 
 <img src="https://img.shields.io/badge/CSS-1-4a90e2" />
 <p>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBselector-4a90e2" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-3%E3%83%BBfloat-4a90e2" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-3%E3%83%BBflex%20layout-4a90e2" /></a>
+  <a href="./questions/css/float"><img src="https://img.shields.io/badge/-3%E3%83%BBfloat-4a90e2" /></a>
+  <a href="./questions/css/flex-layout"><img src="https://img.shields.io/badge/-3%E3%83%BBflex%20layout-4a90e2" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBgrid%20layout-4a90e2" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBmedia%20query-4a90e2" /></a>
 </p>

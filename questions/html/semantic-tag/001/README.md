@@ -4,7 +4,7 @@
 
 <p></p>
 
-<a href="../../README.md" target="_blank">
+<a href="../README.md" target="_blank">
   <img src="https://img.shields.io/badge/-Back-grey" alt="Back"/>
 </a> 
 <a href="https://tsch.js.org/2/answer" target="_blank">

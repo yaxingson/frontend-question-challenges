@@ -7,6 +7,8 @@
     Briefly describe the understanding of HTML semantics.
   </summary>
 
+  <p></p>
+
   > by Yaxing Son [@yaxingson]()
 
   <a href="https://tsch.js.org/2/play" target="_blank">

@@ -1,6 +1,7 @@
 <div align="center">
   <p>Collection of Frontend question challenges</p>
-  <p>English &nbsp; | &nbsp; <a href="./README.zh-CN.md">Chinese</a></p>
+  
+  English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 </div>
 
 ## Introduction

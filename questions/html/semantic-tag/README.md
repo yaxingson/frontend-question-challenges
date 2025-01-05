@@ -4,7 +4,7 @@
 
 ### `easy`
 
-- [Briefly describe the understanding of HTML semantics.](./001)
+- [Briefly describe the understanding of HTML semantics.]()
 
 
 ### `medium`

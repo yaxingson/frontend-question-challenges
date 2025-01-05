@@ -1,6 +1,6 @@
 <div align="center">
   <p>Collection of Frontend question challenges</p>
-  <p>English &nbsp; | &nbsp; <a href="./README.zh-CN.md">简体中文</a></p>
+  <p>English &nbsp; | &nbsp; <a href="./README.zh-CN.md">Chinese</a></p>
 </div>
 
 ## Introduction

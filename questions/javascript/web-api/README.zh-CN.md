@@ -7,6 +7,6 @@
 
 ### `中等`
 
-- [requestAnimationFrame]()
+- [requestAnimationFrame和cancelAnimationFrame]()
 
 ### `困难`

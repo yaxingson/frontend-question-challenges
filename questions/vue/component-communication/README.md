@@ -2,4 +2,5 @@
 
 ## 问题
 
-- 
+- [`$parent`、`$children`和`$root`]()
+- [`provide`和`inject`]()

@@ -1,12 +1,7 @@
-# 布局
+# Web API
 
 ## 问题
 
-### `简单`
-
-
-### `中等`
-
 - [requestAnimationFrame和cancelAnimationFrame]()
+- [localStorage和sessionStorage]()
 
-### `困难`

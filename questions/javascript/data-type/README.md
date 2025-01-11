@@ -2,14 +2,6 @@
 
 ## 问题
 
-### `简单`
-
 - [数据类型的判断方法]()
-- [简述Set、Map、WeakSet和WeakMap的用法和区别]
+- [简述Set、Map、WeakSet和WeakMap的用法和区别]()
 
-
-
-### `中等`
-
-
-### `困难`

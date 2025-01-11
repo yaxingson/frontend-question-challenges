@@ -1,7 +1,7 @@
 <div align="center">
   <p>Collection of Frontend question challenges</p>
   
-  English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
+  English &nbsp; | &nbsp; [Chinese](./README.zh-cn.md)
   
 </div>
 

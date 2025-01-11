@@ -2,6 +2,7 @@
   <p>Collection of Frontend question challenges</p>
   
   English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
+  
 </div>
 
 ## Introduction

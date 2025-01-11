@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CSS-1-4a90e2" />
 <p>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BB选择器-4a90e2" /></a>
-  <a href="./questions/css/float/README.zh-CN.md"><img src="https://img.shields.io/badge/-3%E3%83%BBfloat-4a90e2" /></a>
+  <a href="./questions/css/float/README.md"><img src="https://img.shields.io/badge/-3%E3%83%BBfloat-4a90e2" /></a>
   <a href="./questions/css/flex-layout"><img src="https://img.shields.io/badge/-3%E3%83%BBflex布局-4a90e2" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBgrid布局-4a90e2" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BB媒体查询-4a90e2" /></a>

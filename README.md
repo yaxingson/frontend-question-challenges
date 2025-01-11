@@ -31,7 +31,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-1-f7df1e" />
 <p>
-  <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BB数据类型-f7df1e" /></a>
+  <a href="./questions/javascript/data-type"><img src="https://img.shields.io/badge/-1%E3%83%BB数据类型-f7df1e" /></a>
   <a href=""><img src="https://img.shields.io/badge/-3%E3%83%BB原型-f7df1e" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBthis-f7df1e" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BB数组-f7df1e" /></a>

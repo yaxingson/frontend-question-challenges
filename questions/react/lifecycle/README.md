@@ -2,10 +2,5 @@
 
 ## 问题
 
-### `简单`
-
-
-### `中等`
-
-
-### `困难`
+- [ ] [`getDerivedStateFromProps`、`shouldComponentUpdate`和`getSnapshotBeforeUpdate`]()
+- [ ] [`getDerivedStateFromError`和`componentDidCatch`]()

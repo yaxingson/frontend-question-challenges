@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/HTML-1-e54d26" />
 <p>
-  <a href="./questions/html/semantic-tag"><img src="https://img.shields.io/badge/-1%E3%83%BB语义化标签-e54d26" /></a>
+  <a href="./questions/html/semantic-tag/"><img src="https://img.shields.io/badge/-1%E3%83%BB语义化标签-e54d26" /></a>
   <a href="./questions/html/seo"><img src="https://img.shields.io/badge/-3%E3%83%BBseo-e54d26" /></a>
   <a href=""><img src="https://img.shields.io/badge/-1%E3%83%BBiframe-e54d26" /></a>
 </p>

@@ -1,9 +1,4 @@
-<div align="center">
-  <p>前端问题合集</p>
-  
-  简体中文 &nbsp; | &nbsp; [英文](./README.md)
-  
-</div>
+简体中文 &nbsp; | &nbsp; [英文](./README.md)
 
 ## 介绍
 
